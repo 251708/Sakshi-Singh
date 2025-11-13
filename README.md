@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Singh</h1>
-<h3 align="center">🚀 MERN Stack Developer | Problem Solver | GATE Aspirant</h3>
+<h3 align="center">🚀 MERN Stack Developer | Problem Solver </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
