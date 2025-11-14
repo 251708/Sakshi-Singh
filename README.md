@@ -8,6 +8,7 @@
 </p>
 
 ---
+![Profile View Counter](https://profile-counter.glitch.me/solbysakshi/count.svg)
 
 ### 🌟 About Me
 - 🎓 I'm a **2024 B.Tech Computer Science Graduate**
