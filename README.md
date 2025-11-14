@@ -13,13 +13,14 @@
 
 
 ### 🌟 About Me
+   ![Visitors](https://komarev.com/ghpvc/?username=solbysakshi&color=blue)
 - 🎓 I'm a **2024 B.Tech Computer Science Graduate**
 - 💻 Passionate about **Full Stack Web Development**
 - 🚀 Skilled in building **real-world MERN projects** (Auth, Payments, Cloud Uploads, Dashboards)
 - 📚 Currently preparing for **GATE (CS)** while sharpening my dev skills
 - 🌱 Currently learning **Backend Optimization**
 - 🎯 Goal: To become a **Product-Ready Developer** for startups or top companies
-![Visitors](https://komarev.com/ghpvc/?username=solbysakshi&color=blue)
+
 ---
 
 ### 🧠 My Tech Stack
