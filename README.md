@@ -8,7 +8,8 @@
 </p>
 
 ---
-![Profile View Counter](https://profile-counter.glitch.me/solbysakshi/count.svg)
+### 👀 Profile Views  
+![Visitor Count](https://visitcount.itsvg.in/api?id=solbysakshi&label=Profile%20Views&color=1&icon=5&pretty=true)
 
 ### 🌟 About Me
 - 🎓 I'm a **2024 B.Tech Computer Science Graduate**
